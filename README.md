@@ -2,4 +2,5 @@
 > Built for The Git & GitHub Workshop by Randomize();
 
 ## The Task
-**The error in this functionality is** 
+**the error in this functionalityis** 
+**its not possible to swipe the numbers**
